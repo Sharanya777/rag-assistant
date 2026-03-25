@@ -1,0 +1,21 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+pydantic==2.7.4
+
+# RAG / ML stack
+langchain==0.2.5
+langchain-community==0.2.5
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+transformers==4.41.2
+torch==2.3.0
+huggingface-hub>=0.31.2,<1.0.0
+numpy==1.26.4
+
+# Document loaders
+pypdf==4.2.0
+unstructured==0.14.4
+
+# Optional: OpenAI backend (>=2.8.0 satisfies litellm if present on host)
+openai>=2.8.0
