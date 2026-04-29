@@ -1,4 +1,4 @@
-# 🧠 AI Knowledge Assistant — RAG System
+# AI Knowledge Assistant — RAG System
 
 > Production-ready Retrieval-Augmented Generation pipeline  
 > **Stack:** Python · LangChain · FAISS · HuggingFace · FastAPI · Streamlit · Docker
